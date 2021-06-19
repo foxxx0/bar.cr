@@ -1,0 +1,9 @@
+name: bar.cr
+version: 0.1.0
+
+authors:
+  - Thore Bödecker <me@foxxx0.de>
+
+crystal: ">= 1.0.0"
+
+license: AGPL3

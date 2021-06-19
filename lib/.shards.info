@@ -1,0 +1,9 @@
+---
+version: 1.0
+shards:
+  crinja:
+    git: https://github.com/straight-shoota/crinja.git
+    version: 0.7.0
+  send:
+    git: https://github.com/wyhaines/send.cr.git
+    version: 0.2.0

@@ -16,3 +16,4 @@
 # project-specific files
 conf/*.ini
 !conf/example.ini
+app
